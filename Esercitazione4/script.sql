@@ -36,7 +36,7 @@ INSERT INTO automobile VALUES
 
 INSERT INTO garage VALUES
 ('G1', 'Roma'),
-('G2', 'Firenze'),
+('G2', 'Roma'),
 ('G3', 'Firenze'),
 ('G4', 'Milano'),
 ('G5', 'Milano'),
